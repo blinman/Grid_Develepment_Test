@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Event
+comment0.text=\r\n\ This\ class\ is\ for\ creating\ an\ Event\ with\ an\ ID\ and\ some\ tickets\r\n\r\n\ @author\ Sava\r\n\ @version\ 2\ May\ 2017\r\n
+comment1.params=ID
+comment1.target=Event(int)
+comment1.text=\r\n\ Creates\ an\ Event,\ sets\ it\ ID.\r\n\ Then\ creates\ a\ Ticket\ array\ with\ a\ random\ number\ of\ tickets\ and\ sorts\ the\ array.\r\n\ \r\n\ @param\ unique\ ID\r\n
+comment2.params=
+comment2.target=int\ getID()
+comment2.text=\r\n\ Retrives\ Event\ ID\r\n\r\n\ @return\ ID\ of\ the\ Event\r\n
+comment3.params=pos
+comment3.target=Ticket\ getTicket(int)
+comment3.text=\r\n\ Retrives\ a\ Ticket\ from\ the\ Ticket\ array\r\n\r\n\ @param\ pos\ index\ of\ the\ specified\ Ticket\r\n\ @return\ specified\ Ticket\r\n
+comment4.params=
+comment4.target=int\ getNumberOfTickets()
+comment4.text=\r\n\ Retrives\ the\ number\ of\ tickets\ in\ the\ Ticket\ array\r\n\r\n\ @return\ number\ of\ tickets\r\n
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ticket
+comment0.text=\r\n\ Creates\ a\ ticket\ with\ a\ random\ price\ from\ 10\ to\ 300\r\n\r\n\ @author\ Sava\ Kovalenko\r\n\ @version\ 2\ May\ 2017\r\n
+comment1.params=
+comment1.target=Ticket()
+comment1.text=\r\n\ Creates\ a\ ticket\ with\ a\ random\ price\ from\ 10\ to\ 300\r\n\r\n
+comment2.params=
+comment2.target=float\ getPrice()
+comment2.text=\r\n\ Gets\ the\ ticket\ price\r\n\r\n\ @return\ ticket\ price\r\n
+comment3.params=compareTicket
+comment3.target=int\ compareTo(Ticket)
+comment3.text=\r\n\ Allows\ tickets\ to\ be\ sorted\ by\ their\ price\r\n\r\n\ @param\ compareTicket\ Ticket\ to\ be\ compared\r\n\ @return\ if\ the\ price\ is\ larger,\ smaller\ or\ same\r\n
+numComments=4

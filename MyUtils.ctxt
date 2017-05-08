@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MyUtils
+comment0.text=\r\n\ A\ set\ of\ functions\ written\ by\ yours\ truly\ to\ be\ used\ everywhere\ in\ the\ program\r\n\r\n\ @author\ Sava\ Kovalenko\r\n\ @version\ 3\ May\ 2017\r\n
+comment1.params=value
+comment1.target=boolean\ convertibleToInt(java.lang.String)
+comment1.text=\r\n\ Checks\ if\ specified\ String\ can\ be\ converted\ into\ an\ Integer\r\n\r\n\ @param\ value\ specified\ String\r\n\ @return\ is\ it\ possible\ to\ convert\r\n
+comment2.params=userInput
+comment2.target=boolean\ isCorrectFormat(java.lang.String)
+comment2.text=\r\n\ Checks\ if\ specified\ String\ represnts\ a\ predefined\ format\r\n\r\n\ @param\ userInput\ specified\ String\r\n\ @return\ is\ the\ format\ correct\r\n
+numComments=3

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MainApp
+comment0.text=\r\n\ Main\ program,\ where\ most\ of\ the\ action\ happens,\ i.e.\ the\ world\ is\ created,\ the\ user\ is\ asked\ for\ input\ and\ the\ resluts\ are\ displayed\r\n\r\n\ @author\ Sava\ Kovalenko\r\n\ @version\ 3\ May\ 2017\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ which\ calls\ all\ the\ others\r\n\r\n\ @param\ args\ No\ need\ for\ parameters\ so\ far\r\n
+comment2.params=
+comment2.target=void\ populateTheWorld()
+comment2.text=\r\n\ Creates\ a\ world\ defined\ in\ the\ requirements,\ with\ events,\ tickets,\ prices\ and\ etc.\r\n\r\n
+comment3.params=
+comment3.target=void\ UserInterface()
+comment3.text=\r\n\ Asks\ the\ user\ for\ input\ of\ coordinates,\ checks\ if\ format\ is\ correct\ and\ passes\ them\ to\ be\ used\ to\ calculate\ the\ closest\ events\r\n\r\n
+comment4.params=xPos\ yPos
+comment4.target=void\ calculateClosest(int,\ int)
+comment4.text=\r\n\ Creates\ a\ list\ of\ all\ places\ that\ have\ events\ that\ have\ tickets.\ Then\ sorts\ the\ list\ by\ distance\ from\ the\ reference\ location\r\n\r\n\ @param\ xPos\ x-coordinate\ of\ starting\ position\r\n\ @param\ yPos\ y-coordinate\ of\ starting\ position\r\n
+comment5.params=
+comment5.target=void\ outputResults()
+comment5.text=\r\n\ Shows\ five\ closest\ events,\ which\ have\ tickets,\ their\ ID,\ tickets\ price\ and\ distance\r\n\r\n
+numComments=6
